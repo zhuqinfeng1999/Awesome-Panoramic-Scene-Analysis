@@ -389,11 +389,11 @@ Please keep one paper per line and preserve alphabetical or chronological orderi
 If this list or the survey is useful in your research, please consider citing:
 
 ```bibtex
-@article{zhu2026panoramic,
-  title   = {Panoramic Scene Analysis: A Survey from Distortion-Aware Engineering to Sphere-Native Foundation Modeling},
-  author  = {Zhu, Qinfeng and Fan, Lei},
-  journal = {ACM Computing Surveys (Under Review)},
-  year    = {2026}
+@article{zhu2026panoramicsceneanalysissurvey,
+      title={Panoramic Scene Analysis: A Survey from Distortion-Aware Engineering to Sphere-Native Foundation Modeling}, 
+      author={Qinfeng Zhu and Lei Fan},
+      journal={arXiv preprint arXiv:2606.27745},
+      year={2026},
 }
 ```
 
