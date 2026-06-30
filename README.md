@@ -393,11 +393,13 @@ Please keep one paper per line and preserve alphabetical or chronological orderi
 If this list or the survey is useful in your research, please consider citing:
 
 ```bibtex
-@article{zhu2026panoramicsceneanalysissurvey,
-      title={Panoramic Scene Analysis: A Survey from Distortion-Aware Engineering to Sphere-Native Foundation Modeling}, 
-      author={Qinfeng Zhu and Lei Fan},
-      journal={arXiv preprint arXiv:2606.27745},
-      year={2026},
+@article{fang2026towards,
+  title={Towards accurate urban scene understanding using point clouds: The SemanticUrban dataset},
+  author={Fang, Yuan and Zhu, Qinfeng and Cai, Yuanzhi and Fan, Lei},
+  journal={Expert Systems with Applications},
+  pages={132949},
+  year={2026},
+  publisher={Elsevier}
 }
 ```
 
