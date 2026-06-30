@@ -5,11 +5,14 @@
 **A curated reading list for panoramic / omnidirectional (360&deg;) scene analysis,**  
 **from distortion-aware engineering to sphere-native foundation modeling.**
 
-![Papers](https://img.shields.io/badge/Papers-141-1f6feb?style=flat-square) ![Topics](https://img.shields.io/badge/Topics-8-8957e5?style=flat-square) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-2da44e?style=flat-square)](#contributing) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey?style=flat-square)](#license) ![Maintained](https://img.shields.io/badge/Maintained-yes-2da44e?style=flat-square)
+![Papers](https://img.shields.io/badge/Papers-141-1f6feb?style=flat-square) ![Topics](https://img.shields.io/badge/Topics-8-8957e5?style=flat-square) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-2da44e?style=flat-square)](#contributing) [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey?style=flat-square)](#license) [![Non-Commercial](https://img.shields.io/badge/Use-Non--Commercial-red?style=flat-square)](#license) [![Academic Only](https://img.shields.io/badge/Research-Academic%20Only-orange?style=flat-square)](#license) ![Maintained](https://img.shields.io/badge/Maintained-yes-2da44e?style=flat-square)
 
 </div>
 
 ---
+
+> [!IMPORTANT]
+> **License notice: academic, non-commercial use only.** This dataset (the curated list, its selection, and arrangement) is released under [CC BY-NC 4.0](#license). Commercial use of any kind is prohibited. It is provided solely for academic and non-commercial research.
 
 ## About
 
@@ -50,6 +53,7 @@ The 141 papers below are organized along the survey's two orthogonal axes, archi
 - [🗂️ 7. Datasets, Benchmarks & Evaluation Protocols](#s7) <sub>(5)</sub>
 - [🔭 8. Open Problems & Future Directions](#s8) <sub>(3)</sub>
 - [Contributing](#contributing)
+- [Disclaimer](#disclaimer)
 - [How to Cite](#how-to-cite)
 - [License](#license)
 
@@ -399,10 +403,27 @@ If this list or the survey is useful in your research, please consider citing:
 
 ---
 
+<a id="disclaimer"></a>
+
+## Disclaimer
+
+This repository is a curated reading list and research resource. It indexes and references academic papers, datasets, and benchmarks that are created and owned by third parties. All links point to external sources, and the papers, datasets, code, and other materials referenced in (and, where applicable, redistributed through) this repository remain subject to the licenses and terms set by their respective owners.
+
+Many of the datasets and benchmarks referenced here are themselves released for academic or non-commercial research use only, and some carry further restrictions on redistribution, modification, or commercial exploitation. Because the underlying materials cannot be assumed to permit commercial use, and because aggregating restricted sources can create additional legal uncertainty, **no commercial use of this resource or its contents is permitted.**
+
+The maintainers make no representation or warranty that any particular use of the referenced materials is lawful. Before using any referenced paper, dataset, or benchmark, you are solely responsible for reviewing and complying with the original license and terms of that source, and for obtaining any permissions required for your intended use. The maintainers accept no liability arising from any use of this resource or of the third-party materials it references. This resource is provided "as is", without warranty of any kind.
+
+<div align="right"><a href="#contents">&#8679; back to top</a></div>
+
+---
+
 <a id="license"></a>
 
 ## License
+[![CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)
 
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+This work, meaning the curated list together with its selection, arrangement, and accompanying descriptions, is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
 
-To the extent possible under law, the authors of this list have waived all copyright and related or neighboring rights to this work under the [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) public domain dedication. The cited papers remain under their respective copyrights.
+**This dataset is provided for academic and non-commercial research purposes only. Commercial use of any kind is strictly prohibited.** You are free to share and adapt the material for non-commercial purposes, as long as you give appropriate credit, provide a link to the license, and indicate if changes were made. For attribution, please cite the survey (see [How to Cite](#how-to-cite)).
+
+The cited papers remain under their respective copyrights.
